@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+streamlit
+plotly
+statsmodels
+prophet
+tensorflow
+scikit-learn
+textblob
